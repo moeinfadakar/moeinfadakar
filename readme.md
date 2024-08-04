@@ -33,7 +33,7 @@
 
 <a href="https://github.com/moeinfadakar">
   <img src="https://github-readme-stats.vercel.app/api?username=moeinfadakar&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinfadakar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinfadakar&layout=donut" />
 </a>
 
 <h2>📞 &nbsp; Connct Me </h2>
