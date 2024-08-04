@@ -51,9 +51,6 @@
   <a href="linkedin.com/in/email-moeinfadakar3@gmail.com">
     <img src="https://img.shields.io/badge/email-moeinfadakar3@gmail.com-/" />
   </a>
-  <a href="linkedin.com/in/email-moeinfadakar3@gmail.com">
-    <img src="https://img.shields.io/badge/email-moeinfadakar3@gmail.com-/" />
-  </a>
 </p>
 
 <br />
