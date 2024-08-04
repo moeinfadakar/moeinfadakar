@@ -10,9 +10,9 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![PHP](https://img.shields.io/badge/PHP-lightblue?style=flat&logo=php)
-  ![laravel](https://img.shields.io/badge/laravel-red?style=flat&logo=laravel)
-  ![jquery](https://img.shields.io/badge/jquery-lightgray?style=flat&logo=jquery)
+  ![PHP](https://img.shields.io/badge/PHP?style=flat&logo=php)
+  ![laravel](https://img.shields.io/badge/laravel?style=flat&logo=laravel)
+  ![jquery](https://img.shields.io/badge/jquery?style=flat&logo=jquery)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
