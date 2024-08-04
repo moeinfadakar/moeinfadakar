@@ -2,7 +2,7 @@
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-- 🤔 &nbsp; Js developer and php developer...
+- 🤔 &nbsp; Js developer and php/Laravel developer...
 - 🌱 &nbsp; Learning Python
 - ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
 
@@ -13,11 +13,11 @@
   ![PHP](https://img.shields.io/badge/PHP-?style=flat&logo=php)
   ![laravel](https://img.shields.io/badge/laravel-?style=flat&logo=laravel)
 - 🌐 &nbsp;
--   ![jquery](https://img.shields.io/badge/jquery?style=flat&logo=jquery)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+    ![jquery](https://img.shields.io/badge/jquery-lightgray?style=flat&logo=jquery)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -43,10 +43,10 @@
     <img src="https://img.shields.io/badge/Website-www.moeinfadakar.ir-blue?style=flat&logo=google-chrome" />
   </a>
   <a href="https://instagram.com/moeinfdkr/">
-    <img src="https://img.shields.io/badge/Instagram-moeinfdkr?style=flat&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@Moein23445-red?style=flat&logo=instagram" />
   </a>
   <a href="https://t.me/Moein23445">
-    <img src="https://img.shields.io/badge/Telegram-@Moein23445?style=flat&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@Moein23445-blue?style=flat&logo=telegram" />
   </a>
   <a href="linkedin.com/in/moein-fadakar-974327293">
     <img src="https://img.shields.io/badge/linkdin-moein-fadakar-blue?style=flat&logo=linkdin" />
