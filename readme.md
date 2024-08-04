@@ -48,8 +48,11 @@
   <a href="https://t.me/Moein23445">
     <img src="https://img.shields.io/badge/Telegram-@Moein23445-blue?style=flat&logo=telegram" />
   </a>
-  <a href="linkedin.com/in/moein-fadakar-974327293">
-    <img src="https://img.shields.io/badge/Linkedin-moein-fadakar-blue?style=flat&logo=Linkedin" />
+  <a href="linkedin.com/in/email-moeinfadakar3@gmail.com">
+    <img src="https://img.shields.io/badge/email-moeinfadakar3@gmail.com-/" />
+  </a>
+  <a href="linkedin.com/in/email-moeinfadakar3@gmail.com">
+    <img src="https://img.shields.io/badge/email-moeinfadakar3@gmail.com-/" />
   </a>
 </p>
 
