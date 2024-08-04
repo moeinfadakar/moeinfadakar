@@ -41,13 +41,13 @@
 
 <p align="center">
   <a href="https://moeinfadakar.ir/">
-    <img src="https://img.shields.io/badge/Website-www.Sabzlearn.ir-blue?style=flat&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Website-www.moeinfadakar.ir-blue?style=flat&logo=google-chrome" />
   </a>
   <a href="https://instagram.com/moeinfdkr/">
-    <img src="https://img.shields.io/badge/Instagram-@Rad_Front-red?style=flat&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-moeinfdkr?style=flat&logo=instagram" />
   </a>
   <a href="https://t.me/Moein23445">
-    <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-blue?style=flat&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@Moein23445?style=flat&logo=telegram" />
   </a>
   <a href="linkedin.com/in/moein-fadakar-974327293">
     <img src="https://img.shields.io/badge/linkdin-moein-fadakar-blue?style=flat&logo=linkdin" />
