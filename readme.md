@@ -10,7 +10,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript&logoColor=007396)
+  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript&logoColor=black)
   ![PHP](https://img.shields.io/badge/PHP-lightblue?style=flat&logo=php)
   ![laravel](https://img.shields.io/badge/laravel-red?style=flat&logo=laravel)
   ![jquery](https://img.shields.io/badge/jquery-lightgray?style=flat&logo=jquery)
