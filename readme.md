@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Telegram-@Moein23445-blue?style=flat&logo=telegram" />
   </a>
   <a href="linkedin.com/in/moein-fadakar-974327293">
-    <img src="https://img.shields.io/badge/linkdin-moein-fadakar-blue?style=flat&logo=linkdin" />
+    <img src="https://img.shields.io/badge/Linkedin-moein-fadakar-blue?style=flat&logo=Linkedin" />
   </a>
 </p>
 
