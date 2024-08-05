@@ -1,3 +1,7 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=moeinfadakar&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+
+
 <h2>Hi There! I'm Moein Fadakar🖐</h2>
 
 <h3>👨‍💻 &nbsp; About Me</h3>
