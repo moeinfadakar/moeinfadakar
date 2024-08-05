@@ -29,7 +29,7 @@
 
 <h2>🏆 &nbsp; achivments </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=moeinfadakar)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
