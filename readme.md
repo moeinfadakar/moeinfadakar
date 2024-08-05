@@ -1,7 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=moeinfadakar)](https://github.com/ryo-ma/github-profile-trophy)
-  
-
-
 <h2>Hi There! I'm Moein Fadakar🖐</h2>
 
 <h3>👨‍💻 &nbsp; About Me</h3>
@@ -31,7 +27,9 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br />
+<h2>🏆 &nbsp; achivments </h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
