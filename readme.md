@@ -56,8 +56,5 @@
 </p>
 
 <br />
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 ### from [moein](https://t.me/Moein23445) &nbsp; ✌💖 ###
