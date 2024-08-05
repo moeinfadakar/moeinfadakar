@@ -35,7 +35,7 @@
 
 <a href="https://github.com/moeinfadakar">
   <img src="https://github-readme-stats.vercel.app/api?username=moeinfadakar&show_icons=true&theme=radical" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=moeinfadakar&layout=donut](https://camo.githubusercontent.com/17e300c1ed8d6b7f21acfdd4044afd698f945dfae572762c7ab5c45c55028f2c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73616d6d6f726f7a6f762673697a655f7765696768743d302e3030303526636f756e745f7765696768743d302e33266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </a>
 
 <h2>📞 &nbsp; Connct Me </h2>
@@ -56,6 +56,8 @@
 </p>
 
 <br />
-
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ### from [moein](https://t.me/Moein23445) &nbsp; ✌💖 ###
